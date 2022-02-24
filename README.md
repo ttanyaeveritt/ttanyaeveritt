@@ -6,7 +6,7 @@ I am in my last semester studying accounting, commercial law, and computer scien
 
 Please join me on my journey to building all sorts of project ideas and documentating my learnings.
 
-🌱 I’m currently learning the difference in Angular vs React(flat food app), Python(computer vision), and always new things on Javascript.
+🌱 I’m currently learning the difference in Angular vs React (flat food app), Python (computer vision), and always new things on Javascript.
 
 📫 Reach me on my Linkedin -> https://www.linkedin.com/in/tanya-everitt/
 

@@ -1,9 +1,14 @@
 👋 Hi, I’m Tanya Everitt
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub page!
+
+I am in my last semester studying accounting, commercial law, and computer science. Even though my page lacks projects (mainly due to not saving my university projects here), it is never too late to starts this GitHub expedition.
+
+Please join me on my journey to building all sorts of project ideas and documentating my learnings.
+
+🌱 I’m currently learning the difference in Angular vs React(flat food app), Python(computer vision), and always new things on Javascript.
+
+📫 Reach me on my Linkedin -> https://www.linkedin.com/in/tanya-everitt/
 
 <!---
 ttanyaeveritt/ttanyaeveritt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

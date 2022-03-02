@@ -8,6 +8,8 @@ Please join me on my journey to building all sorts of project ideas and document
 
 🌱 I’m currently learning the difference in Angular vs React (flat food app), Python (computer vision), and always new things on Javascript.
 
+🧍‍♂️ I am interested in looking into creating a metaverse and learning more about cryptocurrency/blockchain.
+
 📫 Reach me on my Linkedin -> https://www.linkedin.com/in/tanya-everitt/
 
 <!---
